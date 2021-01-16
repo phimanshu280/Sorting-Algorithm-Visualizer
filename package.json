@@ -1,0 +1,18 @@
+{
+  "overrides": {
+    "*": {
+      "dependencies": {
+        "react": "-"
+      },
+      "peerDependencies": {
+        "react": "+"
+      }
+    }
+},
+  "dependencies": {
+    "@material-ui/core": "^4.11.2"
+  }
+  
+}
+
+
